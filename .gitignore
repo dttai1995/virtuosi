@@ -1,4 +1,5 @@
 # Android/IntelliJ/Gradle/VSCODE
+.idea/
 gradle/
 .gradle/
 /local.properties
